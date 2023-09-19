@@ -1,0 +1,193 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{82309233-B894-4FAD-B1C7-A9A5A9081A6F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>QL_CuaHangTienLoi</RootNamespace>
+    <AssemblyName>QL_CuaHangTienLoi</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing">
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="dsHoaDon.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dsHoaDon.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="formDMHangHoa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formDMHangHoa.Designer.cs">
+      <DependentUpon>formDMHangHoa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formDMKhachHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formDMKhachHang.Designer.cs">
+      <DependentUpon>formDMKhachHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formDMNhanVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formDMNhanVien.Designer.cs">
+      <DependentUpon>formDMNhanVien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formDMLoaiHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formDMLoaiHang.Designer.cs">
+      <DependentUpon>formDMLoaiHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formDMHDBan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formDMHDBan.Designer.cs">
+      <DependentUpon>formDMHDBan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formInThongKe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formInThongKe.Designer.cs">
+      <DependentUpon>formInThongKe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formThongKe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formThongKe.Designer.cs">
+      <DependentUpon>formThongKe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formTimHDBan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formTimHDBan.Designer.cs">
+      <DependentUpon>formTimHDBan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMain.Designer.cs">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Functions.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="formDMHangHoa.resx">
+      <DependentUpon>formDMHangHoa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formDMKhachHang.resx">
+      <DependentUpon>formDMKhachHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formDMNhanVien.resx">
+      <DependentUpon>formDMNhanVien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formDMLoaiHang.resx">
+      <DependentUpon>formDMLoaiHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formDMHDBan.resx">
+      <DependentUpon>formDMHDBan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formInThongKe.resx">
+      <DependentUpon>formInThongKe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formThongKe.resx">
+      <DependentUpon>formThongKe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formTimHDBan.resx">
+      <DependentUpon>formTimHDBan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMain.resx">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rpHoaDon.rdlc" />
+    <None Include="dsHoaDon.xsc">
+      <DependentUpon>dsHoaDon.xsd</DependentUpon>
+    </None>
+    <None Include="dsHoaDon.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsHoaDon.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="dsHoaDon.xss">
+      <DependentUpon>dsHoaDon.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bg.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Images\png.png" />
+    <Content Include="Images\shop.jpg" />
+    <None Include="Resources\filter.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

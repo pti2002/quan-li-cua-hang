@@ -1,0 +1,86 @@
+C:\Users\ASUS\Desktop\IT2\NĂM 2 HK2\THCSDL\QL_CuaHangTienLoi\QL_CuaHangTienLoi\bin\Debug\QL_CuaHangTienLoi.exe.config
+C:\Users\ASUS\Desktop\IT2\NĂM 2 HK2\THCSDL\QL_CuaHangTienLoi\QL_CuaHangTienLoi\bin\Debug\QL_CuaHangTienLoi.exe
+C:\Users\ASUS\Desktop\IT2\NĂM 2 HK2\THCSDL\QL_CuaHangTienLoi\QL_CuaHangTienLoi\bin\Debug\QL_CuaHangTienLoi.pdb
+C:\Users\ASUS\Desktop\IT2\NĂM 2 HK2\THCSDL\QL_CuaHangTienLoi\QL_CuaHangTienLoi\obj\Debug\QL_CuaHangTienLoi.Properties.Resources.resources
+C:\Users\ASUS\Desktop\IT2\NĂM 2 HK2\THCSDL\QL_CuaHangTienLoi\QL_CuaHangTienLoi\obj\Debug\QL_CuaHangTienLoi.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\IT2\NĂM 2 HK2\THCSDL\QL_CuaHangTienLoi\QL_CuaHangTienLoi\obj\Debug\QL_CuaHangTienLoi.exe
+C:\Users\ASUS\Desktop\IT2\NĂM 2 HK2\THCSDL\QL_CuaHangTienLoi\QL_CuaHangTienLoi\obj\Debug\QL_CuaHangTienLoi.pdb
+C:\Users\ASUS\Desktop\IT2\NĂM 2 HK2\THCSDL\QL_CuaHangTienLoi\QL_CuaHangTienLoi\obj\Debug\QL_CuaHangTienLoi.formDMNhanVien.resources
+C:\Users\ASUS\Desktop\IT2\NĂM 2 HK2\THCSDL\QL_CuaHangTienLoi\QL_CuaHangTienLoi\obj\Debug\QL_CuaHangTienLoi.formMain.resources
+C:\Users\ASUS\Desktop\IT2\NĂM 2 HK2\THCSDL\QL_CuaHangTienLoi\QL_CuaHangTienLoi\obj\Debug\QL_CuaHangTienLoi.formDMKhachHang.resources
+C:\Users\ASUS\Desktop\IT2\NĂM 2 HK2\THCSDL\QL_CuaHangTienLoi\QL_CuaHangTienLoi\obj\Debug\QL_CuaHangTienLoi.formDMHangHoa.resources
+C:\Users\ASUS\Desktop\IT2\NĂM 2 HK2\THCSDL\QL_CuaHangTienLoi\QL_CuaHangTienLoi\obj\Debug\QL_CuaHangTienLoi.formDMLoaiHang.resources
+C:\Users\ASUS\Desktop\IT2\NĂM 2 HK2\THCSDL\QL_CuaHangTienLoi\QL_CuaHangTienLoi\obj\Debug\QL_CuaHangTienLoi.formDMHDBan.resources
+C:\Users\ASUS\Desktop\IT2\NĂM 2 HK2\THCSDL\QL_CuaHangTienLoi\QL_CuaHangTienLoi\obj\Debug\QL_CuaHangTienLoi.formTimHDBan.resources
+C:\Users\ASUS\Desktop\QL_CuaHangTienLoi\QL_CuaHangTienLoi\bin\Debug\QL_CuaHangTienLoi.exe.config
+C:\Users\ASUS\Desktop\QL_CuaHangTienLoi\QL_CuaHangTienLoi\obj\Debug\QL_CuaHangTienLoi.exe
+C:\Users\ASUS\Desktop\QL_CuaHangTienLoi\QL_CuaHangTienLoi\obj\Debug\QL_CuaHangTienLoi.pdb
+C:\Users\ASUS\Desktop\QL_CuaHangTienLoi\QL_CuaHangTienLoi\bin\Debug\QL_CuaHangTienLoi.exe
+C:\Users\ASUS\Desktop\QL_CuaHangTienLoi\QL_CuaHangTienLoi\bin\Debug\QL_CuaHangTienLoi.pdb
+C:\Users\ASUS\Desktop\QL_CuaHangTienLoi\QL_CuaHangTienLoi\obj\Debug\QL_CuaHangTienLoi.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\QL_CuaHangTienLoi\QL_CuaHangTienLoi\obj\Debug\QL_CuaHangTienLoi.formDMHangHoa.resources
+C:\Users\ASUS\Desktop\QL_CuaHangTienLoi\QL_CuaHangTienLoi\obj\Debug\QL_CuaHangTienLoi.formDMKhachHang.resources
+C:\Users\ASUS\Desktop\QL_CuaHangTienLoi\QL_CuaHangTienLoi\obj\Debug\QL_CuaHangTienLoi.formDMNhanVien.resources
+C:\Users\ASUS\Desktop\QL_CuaHangTienLoi\QL_CuaHangTienLoi\obj\Debug\QL_CuaHangTienLoi.formDMLoaiHang.resources
+C:\Users\ASUS\Desktop\QL_CuaHangTienLoi\QL_CuaHangTienLoi\obj\Debug\QL_CuaHangTienLoi.formDMHDBan.resources
+C:\Users\ASUS\Desktop\QL_CuaHangTienLoi\QL_CuaHangTienLoi\obj\Debug\QL_CuaHangTienLoi.formMain.resources
+C:\Users\ASUS\Desktop\QL_CuaHangTienLoi\QL_CuaHangTienLoi\obj\Debug\QL_CuaHangTienLoi.formTimHDBan.resources
+C:\Users\ASUS\Desktop\QL_CuaHangTienLoi\QL_CuaHangTienLoi\obj\Debug\QL_CuaHangTienLoi.Properties.Resources.resources
+C:\Users\ASUS\Desktop\QL_CuaHangTienLoi\QL_CuaHangTienLoi\obj\Debug\QL_CuaHangTienLoi.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\IT2\NĂM 3 HK1\TH HQTCSDL\ĐỒ ÁN\PhanMem\QL_CuaHangTienLoi\bin\Debug\QL_CuaHangTienLoi.exe.config
+C:\Users\ASUS\Desktop\IT2\NĂM 3 HK1\TH HQTCSDL\ĐỒ ÁN\PhanMem\QL_CuaHangTienLoi\bin\Debug\QL_CuaHangTienLoi.exe
+C:\Users\ASUS\Desktop\IT2\NĂM 3 HK1\TH HQTCSDL\ĐỒ ÁN\PhanMem\QL_CuaHangTienLoi\bin\Debug\QL_CuaHangTienLoi.pdb
+C:\Users\ASUS\Desktop\IT2\NĂM 3 HK1\TH HQTCSDL\ĐỒ ÁN\PhanMem\QL_CuaHangTienLoi\obj\Debug\QL_CuaHangTienLoi.formDMHangHoa.resources
+C:\Users\ASUS\Desktop\IT2\NĂM 3 HK1\TH HQTCSDL\ĐỒ ÁN\PhanMem\QL_CuaHangTienLoi\obj\Debug\QL_CuaHangTienLoi.formDMKhachHang.resources
+C:\Users\ASUS\Desktop\IT2\NĂM 3 HK1\TH HQTCSDL\ĐỒ ÁN\PhanMem\QL_CuaHangTienLoi\obj\Debug\QL_CuaHangTienLoi.formDMNhanVien.resources
+C:\Users\ASUS\Desktop\IT2\NĂM 3 HK1\TH HQTCSDL\ĐỒ ÁN\PhanMem\QL_CuaHangTienLoi\obj\Debug\QL_CuaHangTienLoi.formDMLoaiHang.resources
+C:\Users\ASUS\Desktop\IT2\NĂM 3 HK1\TH HQTCSDL\ĐỒ ÁN\PhanMem\QL_CuaHangTienLoi\obj\Debug\QL_CuaHangTienLoi.formDMHDBan.resources
+C:\Users\ASUS\Desktop\IT2\NĂM 3 HK1\TH HQTCSDL\ĐỒ ÁN\PhanMem\QL_CuaHangTienLoi\obj\Debug\QL_CuaHangTienLoi.formTimHDBan.resources
+C:\Users\ASUS\Desktop\IT2\NĂM 3 HK1\TH HQTCSDL\ĐỒ ÁN\PhanMem\QL_CuaHangTienLoi\obj\Debug\QL_CuaHangTienLoi.Properties.Resources.resources
+C:\Users\ASUS\Desktop\IT2\NĂM 3 HK1\TH HQTCSDL\ĐỒ ÁN\PhanMem\QL_CuaHangTienLoi\obj\Debug\QL_CuaHangTienLoi.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\IT2\NĂM 3 HK1\TH HQTCSDL\ĐỒ ÁN\PhanMem\QL_CuaHangTienLoi\obj\Debug\QL_CuaHangTienLoi.exe
+C:\Users\ASUS\Desktop\IT2\NĂM 3 HK1\TH HQTCSDL\ĐỒ ÁN\PhanMem\QL_CuaHangTienLoi\obj\Debug\QL_CuaHangTienLoi.pdb
+C:\Users\ASUS\Desktop\IT2\NĂM 3 HK1\TH HQTCSDL\ĐỒ ÁN\PhanMem\QL_CuaHangTienLoi\obj\Debug\QL_CuaHangTienLoi.frmMain.resources
+C:\Users\Sang\Desktop\aaa\TH-HQTCSDL\PhanMem\QL_CuaHangTienLoi\obj\Debug\QL_CuaHangTienLoi.csprojResolveAssemblyReference.cache
+C:\Users\Sang\Desktop\aaa\TH-HQTCSDL\PhanMem\QL_CuaHangTienLoi\obj\Debug\QL_CuaHangTienLoi.formDMHangHoa.resources
+C:\Users\Sang\Desktop\aaa\TH-HQTCSDL\PhanMem\QL_CuaHangTienLoi\obj\Debug\QL_CuaHangTienLoi.formDMKhachHang.resources
+C:\Users\Sang\Desktop\aaa\TH-HQTCSDL\PhanMem\QL_CuaHangTienLoi\obj\Debug\QL_CuaHangTienLoi.formDMNhanVien.resources
+C:\Users\Sang\Desktop\aaa\TH-HQTCSDL\PhanMem\QL_CuaHangTienLoi\obj\Debug\QL_CuaHangTienLoi.formDMLoaiHang.resources
+C:\Users\Sang\Desktop\aaa\TH-HQTCSDL\PhanMem\QL_CuaHangTienLoi\obj\Debug\QL_CuaHangTienLoi.formDMHDBan.resources
+C:\Users\Sang\Desktop\aaa\TH-HQTCSDL\PhanMem\QL_CuaHangTienLoi\obj\Debug\QL_CuaHangTienLoi.formThongKe.resources
+C:\Users\Sang\Desktop\aaa\TH-HQTCSDL\PhanMem\QL_CuaHangTienLoi\obj\Debug\QL_CuaHangTienLoi.formTimHDBan.resources
+C:\Users\Sang\Desktop\aaa\TH-HQTCSDL\PhanMem\QL_CuaHangTienLoi\obj\Debug\QL_CuaHangTienLoi.frmMain.resources
+C:\Users\Sang\Desktop\aaa\TH-HQTCSDL\PhanMem\QL_CuaHangTienLoi\obj\Debug\QL_CuaHangTienLoi.Properties.Resources.resources
+C:\Users\Sang\Desktop\aaa\TH-HQTCSDL\PhanMem\QL_CuaHangTienLoi\obj\Debug\QL_CuaHangTienLoi.csproj.GenerateResource.Cache
+C:\Users\Sang\Desktop\aaa\TH-HQTCSDL\PhanMem\QL_CuaHangTienLoi\obj\Debug\QL_CuaHangTienLoi.exe
+C:\Users\Sang\Desktop\aaa\TH-HQTCSDL\PhanMem\QL_CuaHangTienLoi\bin\Debug\QL_CuaHangTienLoi.exe.config
+C:\Users\Sang\Desktop\aaa\TH-HQTCSDL\PhanMem\QL_CuaHangTienLoi\bin\Debug\QL_CuaHangTienLoi.exe
+C:\Users\Sang\Desktop\aaa\TH-HQTCSDL\PhanMem\QL_CuaHangTienLoi\bin\Debug\QL_CuaHangTienLoi.pdb
+C:\Users\Sang\Desktop\aaa\TH-HQTCSDL\PhanMem\QL_CuaHangTienLoi\obj\Debug\QL_CuaHangTienLoi.pdb
+C:\Users\Sang\Desktop\aaa\TH-HQTCSDL\PhanMem\QL_CuaHangTienLoi\obj\Debug\QL_CuaHangTienLoi.formInThongKe.resources
+C:\Users\Sang\Desktop\aaa\TH-HQTCSDL\PhanMem\QL_CuaHangTienLoi\obj\Debug\RdlCompile.cache
+C:\Users\Sang\Desktop\aaa\TH-HQTCSDL\PhanMem\QL_CuaHangTienLoi\obj\Debug\RdlCompile.compiled
+C:\Users\ASUS\Desktop\TH-HQTCSDL\PhanMem\QL_CuaHangTienLoi\bin\Debug\QL_CuaHangTienLoi.exe.config
+C:\Users\ASUS\Desktop\TH-HQTCSDL\PhanMem\QL_CuaHangTienLoi\bin\Debug\QL_CuaHangTienLoi.exe
+C:\Users\ASUS\Desktop\TH-HQTCSDL\PhanMem\QL_CuaHangTienLoi\bin\Debug\QL_CuaHangTienLoi.pdb
+C:\Users\ASUS\Desktop\TH-HQTCSDL\PhanMem\QL_CuaHangTienLoi\obj\Debug\QL_CuaHangTienLoi.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\TH-HQTCSDL\PhanMem\QL_CuaHangTienLoi\obj\Debug\QL_CuaHangTienLoi.formDMHangHoa.resources
+C:\Users\ASUS\Desktop\TH-HQTCSDL\PhanMem\QL_CuaHangTienLoi\obj\Debug\QL_CuaHangTienLoi.formDMKhachHang.resources
+C:\Users\ASUS\Desktop\TH-HQTCSDL\PhanMem\QL_CuaHangTienLoi\obj\Debug\QL_CuaHangTienLoi.formDMNhanVien.resources
+C:\Users\ASUS\Desktop\TH-HQTCSDL\PhanMem\QL_CuaHangTienLoi\obj\Debug\QL_CuaHangTienLoi.formDMLoaiHang.resources
+C:\Users\ASUS\Desktop\TH-HQTCSDL\PhanMem\QL_CuaHangTienLoi\obj\Debug\QL_CuaHangTienLoi.formDMHDBan.resources
+C:\Users\ASUS\Desktop\TH-HQTCSDL\PhanMem\QL_CuaHangTienLoi\obj\Debug\QL_CuaHangTienLoi.formInThongKe.resources
+C:\Users\ASUS\Desktop\TH-HQTCSDL\PhanMem\QL_CuaHangTienLoi\obj\Debug\QL_CuaHangTienLoi.formThongKe.resources
+C:\Users\ASUS\Desktop\TH-HQTCSDL\PhanMem\QL_CuaHangTienLoi\obj\Debug\QL_CuaHangTienLoi.formTimHDBan.resources
+C:\Users\ASUS\Desktop\TH-HQTCSDL\PhanMem\QL_CuaHangTienLoi\obj\Debug\QL_CuaHangTienLoi.frmMain.resources
+C:\Users\ASUS\Desktop\TH-HQTCSDL\PhanMem\QL_CuaHangTienLoi\obj\Debug\QL_CuaHangTienLoi.Properties.Resources.resources
+C:\Users\ASUS\Desktop\TH-HQTCSDL\PhanMem\QL_CuaHangTienLoi\obj\Debug\QL_CuaHangTienLoi.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\TH-HQTCSDL\PhanMem\QL_CuaHangTienLoi\obj\Debug\RdlCompile.cache
+C:\Users\ASUS\Desktop\TH-HQTCSDL\PhanMem\QL_CuaHangTienLoi\obj\Debug\RdlCompile.compiled
+C:\Users\ASUS\Desktop\TH-HQTCSDL\PhanMem\QL_CuaHangTienLoi\obj\Debug\QL_CuaHangTienLoi.exe
+C:\Users\ASUS\Desktop\TH-HQTCSDL\PhanMem\QL_CuaHangTienLoi\obj\Debug\QL_CuaHangTienLoi.pdb
+C:\Users\ASUS\Desktop\IT2\NĂM 3 HK1\TH HQTCSDL\ĐỒ ÁN\PhanMem\QL_CuaHangTienLoi\obj\Debug\QL_CuaHangTienLoi.formInThongKe.resources
+C:\Users\ASUS\Desktop\IT2\NĂM 3 HK1\TH HQTCSDL\ĐỒ ÁN\PhanMem\QL_CuaHangTienLoi\obj\Debug\QL_CuaHangTienLoi.formThongKe.resources
+C:\Users\ASUS\Desktop\IT2\NĂM 3 HK1\TH HQTCSDL\ĐỒ ÁN\PhanMem\QL_CuaHangTienLoi\obj\Debug\RdlCompile.cache
+C:\Users\ASUS\Desktop\IT2\NĂM 3 HK1\TH HQTCSDL\ĐỒ ÁN\PhanMem\QL_CuaHangTienLoi\obj\Debug\RdlCompile.compiled
+C:\Users\ASUS\Desktop\IT2\NĂM 3 HK1\TH HQTCSDL\ĐỒ ÁN\PhanMem\QL_CuaHangTienLoi\obj\Debug\QL_CuaHangTienLoi.csprojResolveAssemblyReference.cache
